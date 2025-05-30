@@ -1,7 +1,7 @@
 ---
 title: Пуловер на блоке с веревкой стоя
 type: docs
-prev: docs/folder/ed01.md
+prev: docs/spina/spina01.md
 ---
 
 Инструкция по выполнению
