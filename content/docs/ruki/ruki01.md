@@ -4,6 +4,7 @@ type: docs
 prev: docs/ruki/
 ---
 ![](ruki01.gif)
+
 {{% steps %}}
 
 ### Шаг 1
