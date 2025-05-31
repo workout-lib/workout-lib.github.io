@@ -1,7 +1,7 @@
 ---
 title: Отжимания от пола со средней постановкой рук
 type: docs
-prev: docs/ruki/
+prev: docs/grud/
 ---
 ![отжимания от пола со средней постановкой рук](https://github.com/user-attachments/assets/35455a3c-9829-40e2-906f-0e50e1d18908)
 
