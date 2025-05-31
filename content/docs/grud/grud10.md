@@ -1,7 +1,7 @@
 ---
 title: Жим гантелей на наклонной вверх (45°) скамье 
 type: docs
-prev: docs/ruki/
+prev: docs/grud/
 ---
 ![](https://github.com/user-attachments/assets/00af12a1-f480-4cec-856c-9894ffc31300)
 
