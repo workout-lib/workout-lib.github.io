@@ -1,7 +1,7 @@
 ---
 title: Жим Свенда 
 type: docs
-prev: docs/ruki/
+prev: docs/grud/
 ---
 ![](https://github.com/user-attachments/assets/432d3542-07fe-43e6-9796-17d3a8e3445f)
 
