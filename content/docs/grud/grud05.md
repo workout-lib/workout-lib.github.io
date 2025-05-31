@@ -1,7 +1,7 @@
 ---
 title: Жим в рычажном тренажере
 type: docs
-prev: docs/ruki/
+prev: docs/grud/
 ---
 ![](https://github.com/user-attachments/assets/e6c69aa8-ce8f-45c1-8294-f5446737b4cc)
 
