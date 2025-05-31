@@ -1,7 +1,7 @@
 ---
 title: Жим штанги на наклонной скамье вверх
 type: docs
-prev: docs/ruki/
+prev: docs/grud/
 ---
 ![](https://github.com/user-attachments/assets/e8956d51-825b-4567-9078-f4f2dd0dda39)
 
