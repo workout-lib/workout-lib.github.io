@@ -1,7 +1,7 @@
 ---
 title: Отжимания на коленях с широкой постановкой рук
 type: docs
-prev: docs/ruki/
+prev: docs/grud/
 ---
 ![отжимания на коленях с широкой постановкой рук](https://github.com/user-attachments/assets/8e1bcb6c-4a90-4a14-9fa4-513218cc6da1)
 
