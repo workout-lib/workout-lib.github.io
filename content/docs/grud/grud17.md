@@ -1,7 +1,7 @@
 ---
 title: Отжимания на брусьях со свободным весом
 type: docs
-prev: docs/ruki/
+prev: docs/grud/
 ---
 ![](https://github.com/user-attachments/assets/f926f7fd-e7be-4faf-aa38-06ac40da4938)
 
