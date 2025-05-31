@@ -1,7 +1,7 @@
 ---
 title: Жим Свенда с Т-грифом
 type: docs
-prev: docs/ruki/
+prev: docs/grud/
 ---
 ![](https://github.com/user-attachments/assets/a58fff9f-0148-45c2-b9b9-0dd5d602cf89)
 
