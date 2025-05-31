@@ -1,7 +1,7 @@
 ---
 title: Жим в тренажере от груди вверх
 type: docs
-prev: docs/ruki/
+prev: docs/grud/
 ---
 ![](https://github.com/user-attachments/assets/74132d51-0562-4518-9fec-f1b406e2c3d3)
 
