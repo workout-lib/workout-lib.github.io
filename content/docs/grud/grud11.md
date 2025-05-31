@@ -1,7 +1,7 @@
 ---
 title: Жим гантелей на наклонной скамье (30°) одной рукой поочередно
 type: docs
-prev: docs/ruki/
+prev: docs/grud/
 ---
 ![](https://github.com/user-attachments/assets/b9b1a612-ed57-4144-bde1-1a7dfd8393be)
 
