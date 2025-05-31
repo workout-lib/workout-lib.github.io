@@ -1,7 +1,7 @@
 ---
 title: Жим в тренажере одной рукой
 type: docs
-prev: docs/ruki/
+prev: docs/grud/
 ---
 ![](https://github.com/user-attachments/assets/2c901601-248d-4aed-aec2-f286ae61522a)
 
