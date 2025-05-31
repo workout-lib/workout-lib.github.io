@@ -1,7 +1,7 @@
 ---
 title: Жим Свенда с гантелями лежа
 type: docs
-prev: docs/ruki/
+prev: docs/grud/
 ---
 ![](https://github.com/user-attachments/assets/191448d7-c521-48ed-9241-9c75e634e557)
 
