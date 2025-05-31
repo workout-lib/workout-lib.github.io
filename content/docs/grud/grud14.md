@@ -1,7 +1,7 @@
 ---
 title: Жим штанги лежа на горизонтальной скамье
 type: docs
-prev: docs/ruki/
+prev: docs/grud/
 ---
 ![](https://github.com/user-attachments/assets/84174189-bcdc-42b4-b4d1-89fb4f9219f5)
 
