@@ -1,7 +1,7 @@
 ---
 title: Жим гантелей на горизонтальной скамье
 type: docs
-prev: docs/ruki/
+prev: docs/grud/
 ---
 ![](https://github.com/user-attachments/assets/e09ba407-5a8e-48f7-9ee1-cd7c087f838f)
 
