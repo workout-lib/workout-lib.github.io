@@ -1,7 +1,7 @@
 ---
 title: Отжимания на коленях со средней постановкой рук
 type: docs
-prev: docs/ruki/
+prev: docs/grud/
 ---
 ![отжимания на коленях со средней постановкой рук](https://github.com/user-attachments/assets/5788b20f-35a3-4c84-935a-4fad6eb0f2d9)
 
