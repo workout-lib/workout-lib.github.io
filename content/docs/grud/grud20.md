@@ -1,7 +1,7 @@
 ---
 title: Отжимания от мяча
 type: docs
-prev: docs/ruki/
+prev: docs/grud/
 ---
 ![отжимания от мяча](https://github.com/user-attachments/assets/b657e798-8ee7-4353-8faf-40d9474bad7c)
 
