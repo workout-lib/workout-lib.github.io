@@ -1,7 +1,7 @@
 ---
 title: Отжимания от пола с широкой постановкой рук
 type: docs
-prev: docs/ruki/
+prev: docs/grud/
 ---
 ![отжимания от пола с широкой постановкой рук](https://github.com/user-attachments/assets/77e1da30-f691-43b6-9a9e-30ec0ac2f001)
 
