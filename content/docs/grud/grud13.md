@@ -1,7 +1,7 @@
 ---
 title: Жим резинок лежа на грудные
 type: docs
-prev: docs/ruki/
+prev: docs/grud/
 ---
 ![жим резинок лежа на грудные](https://github.com/user-attachments/assets/bf2fbf58-3a11-4ce0-9bd1-019d545ac87f)
 
