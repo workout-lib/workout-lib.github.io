@@ -1,7 +1,7 @@
 ---
 title: Отжимания на брусьях в Гравитроне
 type: docs
-prev: docs/ruki/
+prev: docs/grud/
 ---
 ![](https://github.com/user-attachments/assets/d40f577b-e3e4-4a0c-a7e3-5e887e82b6f8)
 
