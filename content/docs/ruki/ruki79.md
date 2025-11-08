@@ -3,7 +3,8 @@ title: Сгибание рук с гантелями хватом «молот»
 type: docs
 prev: docs/ruki/
 ---
-![сгибание рук с гантелями хватом _молот_ сидя](https://github.com/user-attachments/assets/e54416c3-490c-4abe-bb5e-c624bef226f0)
+![сгибание рук с гантелями хватом _молот](https://github.com/user-attachments/assets/bd3aba58-911b-48c7-93b4-67274cee3505)
+
 
 {{% steps %}}
 
