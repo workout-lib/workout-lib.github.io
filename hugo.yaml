@@ -1,6 +1,17 @@
 # Hugo configuration file
 title: My Site
 
+defaultContentLanguage: ru
+languages:
+  ru:
+    languageName: Русский
+    weight: 1
+    title: Мой сайт
+  en:
+    languageName: English
+    weight: 2
+    title: My Site
+
 # import hextra as module
 module:
   imports:
@@ -18,26 +29,35 @@ markup:
 
 menu:
   main:
-    - name: Упражнения
+    - identifier: docs
+      name: Упражнения
       pageRef: /docs
       weight: 1
-    - name: About
+    - identifier: about
+      name: About
       pageRef: /about
       weight: 2
-    - name: Contact ↗
+    - identifier: contact
+      name: Contact ↗
       url: "https://github.com/imfing"
       weight: 3
     - name: Search
       weight: 4
       params:
         type: search
-    - name: GitHub
+    - name: Language
       weight: 5
+      params:
+        type: language-switch
+        label: false
+        icon: "language"
+    - name: GitHub
+      weight: 6
       url: "https://github.com/imfing/hextra-starter-template"
       params:
         icon: github
     - name: Twitter
-      weight: 6
+      weight: 7
       url: "https://twitter.com/"
       params:
         icon: x-twitter
