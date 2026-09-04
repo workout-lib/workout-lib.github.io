@@ -50,7 +50,7 @@ menu:
       params:
         type: language-switch
         label: false
-        icon: "language"
+        icon: language
     - name: GitHub
       weight: 6
       url: "https://github.com/imfing/hextra-starter-template"
