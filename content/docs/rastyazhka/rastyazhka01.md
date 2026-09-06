@@ -1,5 +1,5 @@
 ---
-title: 
+title: Выгибание спины 
 type: docs
 prev: docs/rastyazhka/
 ---
