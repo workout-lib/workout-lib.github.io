@@ -20,6 +20,6 @@ Start pedaling and move the handles back and forth in rhythm with your legs.
 {{% /steps %}}
 
 {{< callout type="info" >}}
-• Keep your breathing smooth and steady, breathing through your nose.
-• Watch your heart rate during your workout. If it gets too high, slow down.
+Keep your breathing smooth and steady, breathing through your nose.
+Watch your heart rate during your workout. If it gets too high, slow down.
 {{< /callout >}}
