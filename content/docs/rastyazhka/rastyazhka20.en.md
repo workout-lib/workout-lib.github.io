@@ -1,0 +1,30 @@
+---
+title: Standing Chest Stretch
+type: docs
+prev: docs/rastyazhka/
+---
+![растяжка грудных мышц](https://github.com/user-attachments/assets/0968ac7c-f3f7-435f-9c0b-98085cb3827b)
+
+{{% steps %}}
+
+### Step 1
+Stand up straight and open your arms wide out to the sides with your thumbs pointing straight up.
+
+### Step 2
+Gently pull your arms back behind you as far as comfortably possible, opening up your chest.
+
+### Step 3
+Hold this position for 15–20 seconds, then slowly return to the starting position.
+
+### Step 4
+Complete the desired number of reps.
+
+{{% /steps %}}
+
+{{< callout type="info" >}}
+• Never push the stretch to the point of sharp pain.
+
+• Try to keep your chest and shoulder muscles relaxed during the hold.
+
+• Breathe naturally and easily—do not hold your breath.
+{{< /callout >}}
